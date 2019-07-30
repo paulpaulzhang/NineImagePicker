@@ -1,5 +1,6 @@
 # 九宫格选择图片
 ## 利用RecyclerView实现
+	可以在这查看实现效果 https://www.jianshu.com/p/1c8b20b3e75d
 	这里使用BaseRecyclerViewAdapterHelper这个强大好用的开源库
 	代码非常简单，其实就是一个RecyclerView的应用，具体实现看代码吧，下面列出常用的两个功能
 
@@ -18,3 +19,4 @@
                 //图片点击事件，可以点击查看点图编辑图片等
             }
         });
+
